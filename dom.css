@@ -1,0 +1,25 @@
+.box {
+    height: 5em;
+    width: 5em;
+    background-color: rgb(0, 0, 0);
+    margin: 1em;
+    display: inline-block;
+    text-align: center;
+    color: transparent; 
+    line-height: 5em;
+}
+
+#Butt {
+    height: 5em;
+    width: 5em;
+    display: flex;
+    justify-content: center;
+    background-color: turquoise;
+    font-size: 2em;
+    float: center;
+
+}
+
+.box:hover {
+    color: white;
+}
